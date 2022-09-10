@@ -12,7 +12,7 @@
 
 
 <div>
-<h2>Me encontre a seguir:</h2>
+<h2>Minhas redes sociais:</h2>
 
 <a href="malito:carlotoyasmin11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://instagram.com/thecarloto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
