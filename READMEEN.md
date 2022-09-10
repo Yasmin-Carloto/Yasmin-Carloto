@@ -1,5 +1,5 @@
-<h1>Olá, meu povo!!! 👋</h1>
-<p>Click on the image below to translate the info<p>
+<h1>HI THERE!!! 👋</h1>
+
 
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Carloto11/Carloto11/main/YC1.png"/>
 
@@ -13,7 +13,7 @@
 
 
 <div>
-<h2>Minhas redes sociais:</h2>
+<h2>My social media</h2>
 
 <a href="mailto:carlotoyasmin11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://instagram.com/thecarloto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
