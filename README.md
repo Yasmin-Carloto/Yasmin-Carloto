@@ -1,5 +1,5 @@
 <h1>Olá, meu povo!!! 👋</h1>
-<p>Click on the image below to translate the info<p>
+<p>Click on the image below to translate the info 👇<p>
 
 <a href="https://github.com/Carloto11/Carloto11/blob/main/READMEEN.md" target="_blank"><img src="https://raw.githubusercontent.com/Carloto11/Carloto11/main/YC1.png?raw=true"/>
 
