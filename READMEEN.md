@@ -1,7 +1,6 @@
 <h1>HI THERE!!! 👋</h1>
 
-
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/Carloto11/Carloto11/main/YC1.png"/>
+<a href="https://github.com/Carloto11/Carloto11/blob/main/README.md" target="_blank"><img src="https://raw.githubusercontent.com/Carloto11/Carloto11/main/YC1EN.png"/>
 
 <div style="display: inline_block"><br>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
