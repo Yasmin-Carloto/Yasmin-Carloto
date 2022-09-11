@@ -12,7 +12,7 @@
 
 
 <div>
-<h2>My social media</h2>
+<h2>Find me all around the web: </h2>
 
 <a href="mailto:carlotoyasmin11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://instagram.com/thecarloto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -20,3 +20,5 @@
 <a href = "https://www.linkedin.com/in/yasmin-carl%C3%B4to-b46344244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </div>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Carloto11&count_private=true&theme=tokyonight&showicons=true)]()
