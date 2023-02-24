@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Carloto11/Carloto11/blob/main/README.md" target="_blank"><img src="https://raw.githubusercontent.com/Carloto11/Carloto11/main/YC1EN.png"/>
 
-<h2>Languages that I most love and most learn: </h2>
+<h2>Languages that I'm learning: </h2>
 
 <div style="display: inline_block"><br>
   <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,6 +10,8 @@
   <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
 
 
