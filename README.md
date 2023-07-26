@@ -4,7 +4,7 @@ I'm a front-end developer who's working in some good projects using SASS and Ang
 
 <img align="right" alt="Imagem de Yasmin Carlôto" src="https://github.com/Carloto11/Carloto11/blob/main/readmeimg.png"  width="300px"/>
 
-### Me encontre em outros lugares na internet:
+### Places where you can find me:
 <a align="left" href="mailto:carlotoyasmin11@gmail.com"><img alt="GMAIL BADGE" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a align="left" href="https://instagram.com/thecarloto"><img alt="INSTAGRAM BADGE" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a align="left" href="https://www.youtube.com/channel/UCXlbwEQL0M3dU47T5iMWd3g"><img alt="YOUTUBE BADGE" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
