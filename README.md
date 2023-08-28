@@ -13,7 +13,9 @@ I'm a front-end developer who's working in some good projects using SASS and Ang
 
 ### Technologies that I can work with:
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="95px"/>
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="90px"/>
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="90px"/>
-<img alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="140px"/>
-<img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="125px"/>
+<img align="left" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="90px"/>
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="90px"/>
+<img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="140px"/>
+<img align="left" alt="ANGULAR" src="https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white" width="125px"/>
+<img align="left" alt="TYPESCRIPT" src="https://img.shields.io/badge/Angular-007acc?style=for-the-badge&logo=typescript&logoColor=white" width="125px"/>
+
