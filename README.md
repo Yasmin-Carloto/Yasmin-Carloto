@@ -1,5 +1,5 @@
 # HI, THERE!!! 👋
-I'm a fullstack developer who's working in some good projects using Tailwind and React, I also take a risk on the UI/UX world at some times and I am also working at some projects in the mobile development area. Check out my pinned repo for more.
+I'm a fullstack developer who's working in some good projects using Tailwind and React, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area. Check out my pinned repo for more.
 
 
 <img align="right" alt="Imagem de Yasmin Carlôto" src="https://github.com/Carloto11/Carloto11/blob/main/readmeimg.png"  width="300px"/>
