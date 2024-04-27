@@ -1,5 +1,5 @@
 # HI, THERE!!! 👋
-I'm a fullstack developer who's working in some good projects using Tailwind and React, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area. Check out my pinned repo for more.
+I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area. Check out my pinned repo for more.
 
 
 <img align="right" alt="Imagem de Yasmin Carlôto" src="https://github.com/Carloto11/Carloto11/blob/main/readmeimg.png"  width="300px"/>
@@ -12,12 +12,16 @@ I'm a fullstack developer who's working in some good projects using Tailwind and
 
 
 ### Technologies that I can work with:
-<img align="left" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="140px"/>
-<img align="left" alt="JAVASCRIPT" src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" width="140px"/>
+<img align="left" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-<img align="left" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="90px"/>
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="90px"/>
+<img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="left" alt="NextJs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-<img align="left" alt="ANGULAR" src="https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white" width="125px"/>
-<img alt="TYPESCRIPT" src="https://img.shields.io/badge/React-007acc?style=for-the-badge&logo=react&logoColor=white" width="125px"/>
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="left" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 
+<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img align="left" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img align="left" alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
