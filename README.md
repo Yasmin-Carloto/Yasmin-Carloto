@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h3>Social Midia</h3>
+  <h3>Get in touch</h3>
   
   <div align="left">
     <a href="https://criarmeulink.com.br/u/1714227260">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="left">
-  <h3>Hard Skills</h3>
+  <h3>Hard Skills that I can work with</h3>
 
   <div>
     <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind" />
