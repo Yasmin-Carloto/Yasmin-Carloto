@@ -25,7 +25,6 @@
     <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind" />
     <img src="https://skillicons.dev/icons?i=sass,nextjs,java,spring" />
     <img src="https://skillicons.dev/icons?i=kotlin,mysql,postgres,mongodb,swift" />
-     <img src="https://skillicons.dev/icons?i=swiftui" />
   </div>
 </div>
 
