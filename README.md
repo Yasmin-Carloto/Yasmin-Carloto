@@ -1,6 +1,6 @@
 <h1 align="center">HI, THERE!!! 👋 </h1>
 
-<p>I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area. Check out my pinned repo for more.</p>
+<p>I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area using SwiftUI. Check out my pinned repo for more.</p>
 <div width="20%">
   <img align="right" alt="Imagem de Yasmin Carlôto" src="https://github.com/Carloto11/Carloto11/blob/main/readmeimg.png"  width="300px"/>
 </div>
@@ -24,7 +24,8 @@
   <div>
     <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind" />
     <img src="https://skillicons.dev/icons?i=sass,nextjs,java,spring" />
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=kotlin,mysql,postgres,mongodb,swift" />
+     <img src="https://skillicons.dev/icons?i=swiftui" />
   </div>
 </div>
 
