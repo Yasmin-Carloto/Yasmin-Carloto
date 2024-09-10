@@ -1,14 +1,17 @@
 <h1 align="center">HI, THERE!!! 👋 </h1>
 
-<p>I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area using SwiftUI. Check out my pinned repo for more.</p>
-<div width="20%">
-  <img align="right" alt="Imagem de Yasmin Carlôto" src="https://github.com/Carloto11/Carloto11/blob/main/readmeimg.png"  width="300px"/>
-</div>
+<p>
+  I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area using SwiftUI. Check out my pinned repo for more.
+</p>
 
-<div>
+<p align="center">
+  <img width=400 alt="Imagem de Yasmin Carlôto" src="https://github.com/Yasmin-Carloto/Yasmin-Carloto/blob/main/readmeimg.png"/>
+</p>
+
+<div align="left">
   <h3>Get in touch</h3>
   
-  <div align="left">
+  <div>
     <a href="https://criarmeulink.com.br/u/1714227260">
       <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
@@ -34,4 +37,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yasmin-carloto&show_icons=true&theme=onedark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-carloto&theme=onedark&layout=compact"/>
 </div>
-
