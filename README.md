@@ -1,7 +1,7 @@
 <h1 align="center">HI, THERE!!! 👋 </h1>
 
 <p>
-  I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area using SwiftUI. Check out my pinned repo for more.
+  I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area using SwiftUI and Vapor. Check out my pinned repo for more.
 </p>
 
 <p align="center">
