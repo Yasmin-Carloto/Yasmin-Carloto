@@ -43,7 +43,8 @@ Click in one of the links below and get in touch! 🗣️
   | SwiftUI      | React ecosystem     | Tailwind          | Node      | MySQL     | JavaScript            |
   | UIKit        | Angular             | Sass              | Sequelize | Postgres  | TypeScript            |
   | React Native | Vite                | CSS               | Express   | MongoDB   | Swift                 |
-  |              |                     | Styled-Components |           |           | Java                  |
+  |              |                     | Styled-Components | Vapor     | SQLite    | Java                  |
+  |              |                     |                   | Fluent    |           |                       |
 </p>
 
 <p align="left">
