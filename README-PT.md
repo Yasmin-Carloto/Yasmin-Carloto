@@ -4,7 +4,7 @@
     Oi, pessoal! 👋
     </b>
   </h2>
-  Como vocês viram, meu nome é Yasmin Carloto e sou uma <strong>fdesenvolvedora fullstack e mobile</strong> completamente apaixonada por tecnologia e programação. 
+  Como vocês viram, meu nome é Yasmin Carloto e sou uma <strong>desenvolvedora fullstack e mobile</strong> completamente apaixonada por tecnologia e programação. 
 </p>
 
 <img src="https://github.com/GabrielaBezerra/GabrielaBezerra/blob/main/computer-yellowish-lighpink.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
@@ -38,12 +38,12 @@ Clique em um dos links abaixo e vamos ter uma conversa! 🗣️
   
 <strong>Minhas principais tecnologias:</strong>
 
-  | Mobile       | Front-End           | Estilização    | Back-End  | Banco de Dados | Programming Languages |
-  | ---------    | ------------------- | -------------- | --------- | -------------- | --------------------- |
-  | SwiftUI      | React ecosystem     | Tailwind       | Node      | MySQL          | JavaScript            |
-  | UIKit        | Angular             | Sass           | Sequelize | Postgres       | TypeScript            |
-  | React Native | Vite                | CSS            | Express   | MongoDB        | Swift                 |
-  |              |                     |                |           |                | Java                  |
+  | Mobile       | Front-End           | Estilização    | Back-End  | Banco de Dados | Linguagens de Programação |
+  | ---------    | ------------------- | -------------- | --------- | -------------- | ------------------------- |
+  | SwiftUI      | Ecossistema React   | Tailwind       | Node      | MySQL          | JavaScript                |
+  | UIKit        | Angular             | Sass           | Sequelize | Postgres       | TypeScript                |
+  | React Native | Vite                | CSS            | Express   | MongoDB        | Swift                     |
+  |              |                     |                |           |                | Java                      |
 </p>
 
 <p align="left">
