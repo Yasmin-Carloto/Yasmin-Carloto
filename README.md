@@ -1,39 +1,47 @@
-<h1 align="center">HI, THERE!!! 👋 </h1>
-
-<p>
-  I'm a fullstack developer who's working in some good projects using React and Java, I also take a risk on the UI/UX world at some times and I work at some projects in the mobile development area using SwiftUI and Vapor. Check out my pinned repo for more.
+<p align="left">
+  <h2>
+    <b>
+    Hi there! 👋
+    </b>
+  </h2>
+  As you've seen, my name is Yasmin Carloto and I am a <strong>fullstack and mobile developer</strong> who is completely in love with what I do for a living. 
 </p>
 
-<p align="center">
-  <img width=400 alt="Imagem de Yasmin Carlôto" src="https://github.com/Yasmin-Carloto/Yasmin-Carloto/blob/main/readmeimg.png"/>
-</p>
+<img src="https://github.com/GabrielaBezerra/GabrielaBezerra/blob/main/computer-yellowish-lighpink.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-<div align="left">
-  <h3>Get in touch</h3>
+<p align="left">
   
-  <div>
-    <a href="https://criarmeulink.com.br/u/1714227260">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/yasmin-carlôto-14b620275/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-  </div>
-</div>
+<strong>Here are some awesome facts about me: 🗒️</strong>
 
-<div align="left">
-  <h3>Hard Skills that I can work with</h3>
+  * I am an <strong>iOS</strong>, <strong>macOS</strong> and <strong>VisionOS</strong> developer, mostly anything related to apple devices.
+  * I am currently studying VisionOS ecosystem more deeply, focusing at <strong>manupulating entities in the virtual reality world</strong>.
+  * I also love (with all my heart) web development, specially <strong>front-end</strong> which I can work using <strong>React, Tailwind, CSS and other libraries.</strong>
+  * I enjoy learn and develop back-end applications either and I can absolutely work with NodeJS, Sequelize, MySQL and Postgres.
+</p>
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind" />
-    <img src="https://skillicons.dev/icons?i=sass,nextjs,java,spring" />
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,postgres,mongodb,swift" />
-  </div>
-</div>
+<p align="left">
+  
+<strong>Do you wanna talk to me? Don't even think twice!</strong>
+Click in one of the links below and get in touch! 🗣️
 
-<br/>
+  <a href="mailto:carlotoyasmin11@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yasmin-carloto&show_icons=true&theme=onedark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-carloto&theme=onedark&layout=compact"/>
-</div>
+
+  <a href="https://www.linkedin.com/in/yasmin-carloto/"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+</p>
+
+<p align="left">
+  
+<strong>Those are the technologies that I can work with:</strong>
+
+  | Mobile       | Front-End           | Style    | Back-End  | Databases | Programming Languages |
+  | ---------    | ------------------- | -------- | --------- | --------- | --------------------- |
+  | SwiftUI      | React ecosystem     | Tailwind | Node      | MySQL     | JavaScript            |
+  | UIKit        | Angular             | Sass     | Sequelize | Postgres  | TypeScript            |
+  | React Native | Vite                | CSS      | Express   | MongoDB   | Swift                 |
+  |              |                     |          |           |           | Java                  |
+</p>
