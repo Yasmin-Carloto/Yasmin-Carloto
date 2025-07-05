@@ -45,3 +45,12 @@ Click in one of the links below and get in touch! 🗣️
   | React Native | Vite                | CSS      | Express   | MongoDB   | Swift                 |
   |              |                     |          |           |           | Java                  |
 </p>
+
+<p align="left">
+  
+<strong>Statistics: </strong>
+
+  <img src="https://camo.githubusercontent.com/afa6aceafae5a6287d1a217406379cf023794b5b269c456d70bbaff0a8786c54/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7961736d696e2d6361726c6f746f2673686f775f69636f6e733d74727565267468656d653d6f6e656461726b" alt="Yasmin's github stats" />
+
+  <img src="https://camo.githubusercontent.com/1e3d2a9b6fb765b40dfcffc3659eb12ca5524bb45491de5ae0d1af7afaefbd05/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7961736d696e2d6361726c6f746f267468656d653d6f6e656461726b266c61796f75743d636f6d70616374" alt="Yasmin's most used language" />
+</p>
