@@ -7,7 +7,7 @@
   As you've seen, my name is Yasmin Carloto and I am a <strong>fullstack and mobile developer</strong> who is completely in love with what I do for a living. 
 </p>
 
-<img src="https://github.com/GabrielaBezerra/GabrielaBezerra/blob/main/computer-yellowish-lighpink.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://github.com/Yasmin-Carloto/Yasmin-Carloto/blob/main/readme-drawing.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left">
   
