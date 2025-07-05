@@ -38,12 +38,12 @@ Clique em um dos links abaixo e vamos ter uma conversa! 🗣️
   
 <strong>Minhas principais tecnologias:</strong>
 
-  | Mobile       | Front-End           | Estilização    | Back-End  | Banco de Dados | Linguagens de Programação |
-  | ---------    | ------------------- | -------------- | --------- | -------------- | ------------------------- |
-  | SwiftUI      | Ecossistema React   | Tailwind       | Node      | MySQL          | JavaScript                |
-  | UIKit        | Angular             | Sass           | Sequelize | Postgres       | TypeScript                |
-  | React Native | Vite                | CSS            | Express   | MongoDB        | Swift                     |
-  |              |                     |                |           |                | Java                      |
+  | Mobile       | Front-End           | Estilização       | Back-End  | Banco de Dados | Linguagens de Programação |
+  | ---------    | ------------------- | ----------------- | --------- | -------------- | ------------------------- |
+  | SwiftUI      | Ecossistema React   | Tailwind          | Node      | MySQL          | JavaScript                |
+  | UIKit        | Angular             | Sass              | Sequelize | Postgres       | TypeScript                |
+  | React Native | Vite                | CSS               | Express   | MongoDB        | Swift                     |
+  |              |                     | Styled-Components |           |                | Java                      |
 </p>
 
 <p align="left">

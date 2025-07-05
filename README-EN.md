@@ -38,12 +38,12 @@ Click in one of the links below and get in touch! 🗣️
   
 <strong>Those are the technologies that I can work with:</strong>
 
-  | Mobile       | Front-End           | Style    | Back-End  | Databases | Programming Languages |
-  | ---------    | ------------------- | -------- | --------- | --------- | --------------------- |
-  | SwiftUI      | React ecosystem     | Tailwind | Node      | MySQL     | JavaScript            |
-  | UIKit        | Angular             | Sass     | Sequelize | Postgres  | TypeScript            |
-  | React Native | Vite                | CSS      | Express   | MongoDB   | Swift                 |
-  |              |                     |          |           |           | Java                  |
+  | Mobile       | Front-End           | Style             | Back-End  | Databases | Programming Languages |
+  | ---------    | ------------------- | ----------------  | --------- | --------- | --------------------- |
+  | SwiftUI      | React ecosystem     | Tailwind          | Node      | MySQL     | JavaScript            |
+  | UIKit        | Angular             | Sass              | Sequelize | Postgres  | TypeScript            |
+  | React Native | Vite                | CSS               | Express   | MongoDB   | Swift                 |
+  |              |                     | Styled-Components |           |           | Java                  |
 </p>
 
 <p align="left">
