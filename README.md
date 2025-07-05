@@ -54,3 +54,7 @@ Clique em um dos links abaixo e vamos ter uma conversa! 🗣️
 
   <img src="https://camo.githubusercontent.com/1e3d2a9b6fb765b40dfcffc3659eb12ca5524bb45491de5ae0d1af7afaefbd05/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7961736d696e2d6361726c6f746f267468656d653d6f6e656461726b266c61796f75743d636f6d70616374" alt="Yasmin's most used language" />
 </p>
+
+<p>
+  > <strong>Do you speak english? </strong> [Click here and check out the english version!](https://github.com/Yasmin-Carloto/Yasmin-Carloto/blob/main/README-EN.md)
+</p>
